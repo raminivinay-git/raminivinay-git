@@ -185,28 +185,28 @@ A project designed to manage student information and perform basic record operat
 
 <p align="center">
 
-<a href="https://github.com/raminivinay-git" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+<a href="https://github.com/raminivinay-git">
+  <img src="https://img.icons8.com/ios-glyphs/90/FFFFFF/github.png" width="55" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ramini-vinay/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/ramini-vinay/">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/ramini_vinay" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="50" alt="CodeChef"/>
+<a href="https://www.codechef.com/users/ramini_vinay">
+  <img src="https://img.icons8.com/color/96/codechef.png" width="55" alt="CodeChef"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/raminivinay777" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="50" alt="HackerRank"/>
+<a href="https://www.hackerrank.com/profile/raminivinay777">
+  <img src="https://img.icons8.com/color/96/hackerrank.png" width="55" alt="HackerRank"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/vinay_1096/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" alt="LeetCode"/>
+<a href="https://leetcode.com/u/vinay_1096/">
+  <img src="https://img.icons8.com/color/96/leetcode.png" width="55" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:raminivinay777@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" alt="Gmail"/>
+<a href="mailto:raminivinay777@gmail.com">
+  <img src="https://img.icons8.com/color/96/gmail.png" width="55" alt="Gmail"/>
 </a>
 
 </p>
