@@ -179,21 +179,7 @@ A project designed to manage student information and perform basic record operat
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raminivinay-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vinay's GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminivinay-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=raminivinay-git&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
