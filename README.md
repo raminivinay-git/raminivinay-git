@@ -165,10 +165,10 @@ A project designed to manage student information and perform basic record operat
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Important-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms"/>
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20%26%20DBMS-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML"/>
 </p>
 
 - Data Structures & Algorithms
