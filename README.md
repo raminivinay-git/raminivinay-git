@@ -186,27 +186,22 @@ A project designed to manage student information and perform basic record operat
 <div align="center">
 
 <a href="https://github.com/raminivinay-git">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ramini-vinay/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/ramini_vinay">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="50" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/raminivinay777">
-  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="50" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://leetcode.com/u/vinay_1096/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-&nbsp;&nbsp;
 <a href="mailto:raminivinay777@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
