@@ -183,33 +183,33 @@ A project designed to manage student information and perform basic record operat
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/raminivinay-git">
-  <img src="https://img.icons8.com/ios-glyphs/90/FFFFFF/github.png" width="55" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ramini-vinay/">
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/ramini_vinay">
-  <img src="https://img.icons8.com/color/96/codechef.png" width="55" alt="CodeChef"/>
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="50" alt="CodeChef"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/raminivinay777">
-  <img src="https://img.icons8.com/color/96/hackerrank.png" width="55" alt="HackerRank"/>
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="50" alt="HackerRank"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/vinay_1096/">
-  <img src="https://img.icons8.com/color/96/leetcode.png" width="55" alt="LeetCode"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" alt="LeetCode"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:raminivinay777@gmail.com">
-  <img src="https://img.icons8.com/color/96/gmail.png" width="55" alt="Gmail"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
