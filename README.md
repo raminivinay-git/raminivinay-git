@@ -160,26 +160,7 @@ A project designed to manage student information and perform basic record operat
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/CodeChef-1000%2B%20Problems%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coding%20Streak-159%20Days-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CodeChef-Diamond%20Badges-blue?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problems%20Explained-200%2B-success?style=for-the-badge"/>
-
-</p>
-
-- 🏅 Solved **1000+ problems** on CodeChef
-- 🔥 Achieved a **200-days coding streak** milestone
-- 💎 Earned CodeChef Diamond badges
-- 📝 Explained **200+ coding problems**
-- ⭐ Earned HackerRank skill stars
-- 🎓 Completed programming and technology certifications
-- 🚀 Participated in hackathons and collaborative projects
-
----
 
 ## 📚 Currently Learning
 
