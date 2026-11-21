@@ -31,39 +31,35 @@
 
 ## 👨‍💻 About Me
 
-```cpp
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
+```javascript
+const VinayRamini = {
+    name: "Vinay Ramini",
+    education: "B.Tech - Computer Science & Engineering",
+    year: "2nd Year",
 
-class VinayRamini {
-public:
-    string name = "Vinay Ramini";
-    string education = "B.Tech - Computer Science & Engineering";
-    string year = "2nd Year";
-
-    vector<string> interests = {
+    interests: [
         "Software Development",
         "Competitive Programming",
         "Problem Solving",
         "Artificial Intelligence"
-    };
+    ],
 
-    vector<string> currentlyLearning = {
+    currentlyLearning: [
         "Data Structures & Algorithms",
         "Python Programming",
         "SQL & DBMS",
         "AI / ML"
-    };
+    ],
 
-    vector<string> goals = {
-        "Build real-world projects",
-        "Improve problem-solving skills",
-        "Explore new technologies",
-        "Become a skilled Software Developer"
-    };
+    goals: [
+        "Building real-world projects",
+        "Strengthening problem-solving skills",
+        "Exploring new technologies",
+        "Becoming a skilled Software Developer"
+    ]
 };
+
+export default VinayRamini;
 ```
 
 ---
