@@ -31,35 +31,39 @@
 
 ## 👨‍💻 About Me
 
-```python
-class VinayRamini:
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
 
-    def __init__(self):
-        self.name = "Vinay Ramini"
-        self.education = "B.Tech - Computer Science & Engineering"
-        self.year = "2nd Year"
-        self.interests = [
-            "Software Development",
-            "Competitive Programming",
-            "Problem Solving",
-            "Artificial Intelligence"
-        ]
+class VinayRamini {
+public:
+    string name = "Vinay Ramini";
+    string education = "B.Tech - Computer Science & Engineering";
+    string year = "2nd Year";
 
-    def currently_learning(self):
-        return [
-            "Data Structures & Algorithms",
-            "Python Programming",
-            "SQL & DBMS",
-            "AI / ML"
-        ]
+    vector<string> interests = {
+        "Software Development",
+        "Competitive Programming",
+        "Problem Solving",
+        "Artificial Intelligence"
+    };
 
-    def goals(self):
-        return [
-            "Build real-world projects",
-            "Improve problem-solving skills",
-            "Explore new technologies",
-            "Become a skilled Software Developer"
-        ]
+    vector<string> currentlyLearning = {
+        "Data Structures & Algorithms",
+        "Python Programming",
+        "SQL & DBMS",
+        "AI / ML"
+    };
+
+    vector<string> goals = {
+        "Build real-world projects",
+        "Improve problem-solving skills",
+        "Explore new technologies",
+        "Become a skilled Software Developer"
+    };
+};
 ```
 
 ---
