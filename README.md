@@ -31,35 +31,33 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const VinayRamini = {
-    name: "Vinay Ramini",
-    education: "B.Tech - Computer Science & Engineering",
-    year: "2nd Year",
+```python
+ def __init__(self):
+        self.name = "Vinay Ramini"
+        self.education = "B.Tech - Computer Science & Engineering"
+        self.year = "2nd Year"
+        self.interests = [
+            "Software Development",
+            "Competitive Programming",
+            "Problem Solving",
+            "Artificial Intelligence"
+        ]
 
-    interests: [
-        "Software Development",
-        "Competitive Programming",
-        "Problem Solving",
-        "Artificial Intelligence"
-    ],
+    def currently_learning(self):
+        return [
+            "Data Structures & Algorithms",
+            "Python Programming",
+            "SQL & DBMS",
+            "AI / ML"
+        ]
 
-    currentlyLearning: [
-        "Data Structures & Algorithms",
-        "Python Programming",
-        "SQL & DBMS",
-        "AI / ML"
-    ],
-
-    goals: [
-        "Building real-world projects",
-        "Strengthening problem-solving skills",
-        "Exploring new technologies",
-        "Becoming a skilled Software Developer"
-    ]
-};
-
-export default VinayRamini;
+    def goals(self):
+        return [
+            "Build real-world projects",
+            "Improve problem-solving skills",
+            "Explore new technologies",
+            "Become a skilled Software Developer"
+        ]
 ```
 
 ---
