@@ -181,12 +181,10 @@ A project designed to manage student information and perform basic record operat
 
 ## 🤝 Connect With Me
 
-## 🤝 Connect With Me
-
 <div align="center">
 
 <a href="https://github.com/raminivinay-git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="45" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ramini-vinay/">
